@@ -48,7 +48,7 @@ Download Oracle VM VirtualBox by clicking here. Once the download completes, I l
 
 
 
-<img src="               ">
+<img src="folder/Copy of VirtualBox-Install.jpg">
 
 
 
